@@ -86,7 +86,7 @@
   }
   @media (max-width:673px){
     .displayweather .maincard {
-      margin-left: -50px;
+      margin-left: -20px;
       width: 250px;
       text-align: center;
       font-size: small;
